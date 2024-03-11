@@ -1,5 +1,2 @@
 # test1
-this is test number 1
-<br>
-this is secind line
-saf
+This is readme file for repo named test1
